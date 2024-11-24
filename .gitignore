@@ -1,0 +1,10 @@
+# Ignore all node_modules directories in any subdirectory
+**/node_modules/
+
+# Ignore all .env files in any subdirectory
+*.env
+
+# Optional: Ignore logs and temporary files
+*.log
+.DS_Store
+*.tmp
